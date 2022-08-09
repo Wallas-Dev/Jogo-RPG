@@ -1,2 +1,2 @@
 # Jogo-RPG
-Aprendendo POO com joguinho
+Aprendendo POO com jogo
